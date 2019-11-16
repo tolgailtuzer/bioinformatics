@@ -1,0 +1,10 @@
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\bin\Debug\BioinformaticsTranslateTool.exe.config
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\bin\Debug\BioinformaticsTranslateTool.exe
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\bin\Debug\BioinformaticsTranslateTool.pdb
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.csprojAssemblyReference.cache
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.Form1.resources
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.Properties.Resources.resources
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.csproj.GenerateResource.cache
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.csproj.CoreCompileInputs.cache
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.exe
+C:\Users\bilin\source\repos\BioinformaticsTranslateTool\BioinformaticsTranslateTool\obj\Debug\BioinformaticsTranslateTool.pdb

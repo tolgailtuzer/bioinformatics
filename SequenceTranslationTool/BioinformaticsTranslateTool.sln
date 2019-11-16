@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BioinformaticsTranslateTool", "BioinformaticsTranslateTool\BioinformaticsTranslateTool.csproj", "{FEF01289-1E6B-4877-BFC1-F5C5C69A7CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF01289-1E6B-4877-BFC1-F5C5C69A7CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF01289-1E6B-4877-BFC1-F5C5C69A7CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF01289-1E6B-4877-BFC1-F5C5C69A7CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF01289-1E6B-4877-BFC1-F5C5C69A7CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308BC309-DECC-4F84-A733-401198170488}
+	EndGlobalSection
+EndGlobal
