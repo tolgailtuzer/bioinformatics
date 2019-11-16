@@ -1,4 +1,4 @@
-# Bioinformatics Translate Tool
+# Sequence Translation Tool
 
 <img src="/SequenceTranslationTool/Images/img1.png"/>
 
