@@ -1,0 +1,21 @@
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\bin\Debug\SequenceAlignmentTool.exe.config
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\bin\Debug\SequenceAlignmentTool.exe
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\bin\Debug\SequenceAlignmentTool.pdb
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.Form1.resources
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.Properties.Resources.resources
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.csproj.GenerateResource.cache
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.exe
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.pdb
+C:\Users\bilin\Desktop\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.ShowMatrix.resources
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\bin\Debug\SequenceAlignmentTool.exe.config
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\bin\Debug\SequenceAlignmentTool.exe
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\bin\Debug\SequenceAlignmentTool.pdb
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.Properties.Resources.resources
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.csproj.GenerateResource.cache
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.exe
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.pdb
+C:\Users\bilin\Desktop\Github Repo\Bioinformatics\SequenceAlignmentTool\SequenceAlignmentTool\obj\Debug\SequenceAlignmentTool.MainScreen.resources
