@@ -1,6 +1,4 @@
-# DBScan
-
-Sequence Alignment Tool
+# Sequence Alignment Tool
 
 <p align="center">
   <img src="/SequenceAlignmentTool/Images/img1.png">
