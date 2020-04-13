@@ -1,0 +1,20 @@
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\bin\Debug\JukesCantorAndKimuraModels.exe.config
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\bin\Debug\JukesCantorAndKimuraModels.exe
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\bin\Debug\JukesCantorAndKimuraModels.pdb
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.Properties.Resources.resources
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.csproj.GenerateResource.cache
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.exe
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.pdb
+C:\Users\bilin\Desktop\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.MainScreen.resources
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\bin\Debug\JukesCantorAndKimuraModels.exe.config
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\bin\Debug\JukesCantorAndKimuraModels.exe
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\bin\Debug\JukesCantorAndKimuraModels.pdb
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.MainScreen.resources
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.Properties.Resources.resources
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.csproj.GenerateResource.cache
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.exe
+C:\Users\bilin\Desktop\Github Repo\waiting\Bioinformatics\JukesCantorAndKimuraModels\JukesCantorAndKimuraModels\obj\Debug\JukesCantorAndKimuraModels.pdb
